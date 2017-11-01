@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E20A7A58-7670-4C81-A288-BB2D454C1885}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Classes/TileView.cs">
+    <Files>
+      <File FileName="Classes/SnakeView.cs" Line="72" Column="4" />
+      <File FileName="Classes/RefreshHandler.cs" Line="1" Column="1" />
+      <File FileName="Classes/Coordinate.cs" Line="7" Column="3" />
+      <File FileName="Classes/TileView.cs" Line="70" Column="21" />
+      <File FileName="SnakeActivity.cs" Line="1" Column="1" />
+      <File FileName="Enumerations/Direction.cs" Line="1" Column="1" />
+      <File FileName="Enumerations/GameMode.cs" Line="1" Column="1" />
+      <File FileName="Enumerations/TileType.cs" Line="1" Column="1" />
+      <File FileName="Resources/Resource.cs" Line="1" Column="1" />
+      <File FileName="Resources/values/strings.xml" Line="1" Column="1" />
+      <File FileName="Resources/values/attrs.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake" expanded="True">
+            <Node name="Snake" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="TileView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Snake AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.84B7N15C21002553" />
+  <MultiItemStartupConfigurations />
+</Properties>

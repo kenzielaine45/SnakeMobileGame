@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+    android:background="@android:color/background_light"
+    android:weightSum="100"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <TextView
+        android:text="Instructions"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_weight="7"
+        android:gravity="center_horizontal"
+        android:layout_height="0dp"
+        android:id="@+id/txtGameName"
+        android:paddingTop="12dp"
+        android:textSize="20sp"
+        android:textColor="@color/abc_input_method_navigation_guard" />
+    <TextView
+        android:text="@string/mode_ready"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_weight="50"
+        android:gravity="center"
+        android:layout_height="0dp"
+        android:id="@+id/blank"
+        android:textColor="@color/abc_input_method_navigation_guard" />
+    <Button
+        android:text="Back"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:id="@+id/btnBackInstructions"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+</LinearLayout>

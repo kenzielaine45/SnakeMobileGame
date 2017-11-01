@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="mode_ready">Snake\nPress Up Or Volume Up To Play.\n\nUse The Arrow Or Volume Keys To Control The Snake.</string>
+  <string name="mode_pause">Paused\nPress Up Or Volume Up To Resume.\n\nUse The Arrow Or Volume Keys To Control The Snake.</string>
+  <string name="mode_lose_prefix">Game Over\nScore: </string>
+  <string name="mode_lose_suffix">\nPress Up or Touch To Play</string>
+
+    <string name="snake_layout_text_text"></string>
+</resources>
